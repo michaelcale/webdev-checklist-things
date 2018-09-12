@@ -10,6 +10,6 @@ This file is a human-readable checklist. This cannot be imported to Things
 
 ## webdev-checklist-min.json
 
-This file is importable into Things. 
+This file is a url-encoded version that is importable into Things. 
 
 To import, use the `open` command from the command line, and paste the contents of the file `webdev-checklist-min.json` after the `open` command. 
